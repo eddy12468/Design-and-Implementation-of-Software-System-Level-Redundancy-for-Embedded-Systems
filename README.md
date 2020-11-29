@@ -1,1 +1,1 @@
-# -Design-and-Implementation-of-Software-System-Level-Redundancy-for-Embedded-Systems
+Please see the PDF file in the README
